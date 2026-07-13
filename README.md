@@ -87,13 +87,5 @@ Here are some ideas to get you started:
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sneha-9361&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-9361&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
----
 
 <p align="center">⭐ <i>If you find my work useful, consider starring the repos!</i> ⭐</p>
