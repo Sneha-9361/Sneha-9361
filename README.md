@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi, I'm Sneha K 👋</h1>
-<h3 align="center">Data Engineer | Azure • Databricks • PySpark • SQL</h3>
+<h3 align="center">Data Engineer & Data Analyst | Python | SQL | PySpark | Power BI | Azure | Databricks
 
 <p align="center">
   <a href="https://linkedin.com/in/sneha-kumaravel"><img src="https://img.shields.io/badge/LinkedIn-sneha--kumaravel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
