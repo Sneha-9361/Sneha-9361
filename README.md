@@ -53,6 +53,7 @@
 | **AI Fundamentals** | Google | 2026 |
 | **SQL Problem Solving** | HackerRank | 2024 |
 | **Basics of Python** | Infosys Springboard | 2024 |
+| **Genesys Cloud Professional Certificate** | Genesys | 2025|
 
 ---
 
