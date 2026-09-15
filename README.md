@@ -41,7 +41,7 @@
 #### 🔄 Databricks Lakehouse Pipeline *(In Progress)*
 > End-to-end Bronze → Silver → Gold ingestion and transformation pipeline using Azure Data Factory and Databricks.
 - **Tech Stack:** Azure Data Factory, Databricks, PySpark, Delta Lake
-- 📁 **Repository:** [data-lakehouse-pipeline]([https://github.com/Sneha-9361/data-engineering-practice](https://github.com/Sneha-9361/databricks-lakehouse-pipeline])
+- 📁 **Repository:** [data-lakehouse-pipeline]((https://github.com/Sneha-9361/databricks-lakehouse-pipeline)
 
 ---
 
