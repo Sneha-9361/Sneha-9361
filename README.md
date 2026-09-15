@@ -1,87 +1,59 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Sneha-9361/Sneha-9361** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sneha K 👋
+### Data Engineer & Data Analyst
 
-Here are some ideas to get you started:
+**Python | SQL | PySpark | Databricks | Azure | Power BI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi, I'm Sneha K 👋</h1>
-<h3 align="center">Data Engineer & Data Analyst | Python | SQL | PySpark | Power BI | Azure | Databricks
+<br/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/sneha-kumaravel"><img src="https://img.shields.io/badge/LinkedIn-sneha--kumaravel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:snehakumaravel6@gmail.com"><img src="https://img.shields.io/badge/Email-snehakumaravel6@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sneha%20Kumaravel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sneha-kumaravel)
+[![Email](https://img.shields.io/badge/Email-snehakumaravel6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehakumaravel6@gmail.com)
+
+</div>
 
 ---
 
-## 👩‍💻 About Me
+### 👩‍💻 About Me
 
-- 🏢 Data Engineer at **Teleperformance** (Sep 2025 – Present)
-- 🔧 Building scalable **ETL/ELT pipelines** using Azure Data Factory & Databricks
-- 🏗️ Specialist in **Medallion Architecture** (Bronze → Silver → Gold)
-- 📊 Delivering **99.9% data availability** across multi-million row datasets
-- 🎓 B.E. Electronics & Communication | Sona College of Technology | **8.08 CGPA**
-- 📍 Based in India
-
----
-
-## 🛠️ Tech Stack
-
-**Cloud & Data Platform**
-
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logo=apachespark&logoColor=white)
-![Azure Data Lake](https://img.shields.io/badge/Azure_Data_Lake-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-
-**Visualization & Reporting**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+- 🏢 **Data Engineer** at **Teleperformance** (Sep 2025 – Present)
+- 🔧 Designing scalable **ETL/ELT data pipelines** using Azure Data Factory, Databricks, and PySpark
+- 🏗️ Implementing **Medallion Architecture** (Bronze ➔ Silver ➔ Gold) with Delta Lake
+- 📊 Ensuring **high data reliability (99.9%)** across high-volume production datasets
+- 🎓 **B.E. in Electronics & Communication** | Sona College of Technology (CGPA: 8.08)
+- 📍 Tamil Nadu, India
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Tech Stack
 
-### 🌳 Deforestation Activity Detection
-> CNN-based deep learning model for suspicious tree-cutting detection using surveillance video datasets
-- **Tech:** Python, MATLAB, CNN, Digital Image Processing
-- **Result:** 86.6% prediction accuracy
-- 📁 *[View Repository →]*
-
-### 🔄 Databricks Lakehouse Pipeline *(Coming Soon)*
-> End-to-end Bronze → Silver → Gold pipeline using ADF + Databricks
-- **Tech:** Azure Data Factory, Databricks, Delta Lake, PySpark
-- 📁 *[View Repository →]*
-
+| Domain | Technologies |
+| :--- | :--- |
+| **Cloud & Platforms** | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=flat-square&logo=apachespark&logoColor=white) |
+| **Languages & Big Data** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **BI & Analytics** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
+| **Version Control & Ops** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
 ---
 
-## 📜 Certifications
+### 🚀 Featured Projects
 
-| Certificate | Issuer | Year |
-|---|---|---|
-| Databricks Fundamentals | Databricks | 2026 |
-| AI Fundamentals | Google | 2026 |
-| SQL Problem Solving | HackerRank | 2024 |
-| Basics of Python | Infosys Springboard | 2024 |
+#### 🔄 Databricks Lakehouse Pipeline *(In Progress)*
+> End-to-end Bronze → Silver → Gold ingestion and transformation pipeline using Azure Data Factory and Databricks.
+- **Tech Stack:** Azure Data Factory, Databricks, PySpark, Delta Lake
+- 📁 **Repository:** [data-engineering-practice](https://github.com/Sneha-9361/data-engineering-practice)
 
 ---
 
+### 📜 Certifications
 
-<p align="center">⭐ <i>If you find my work useful, consider starring the repos!</i> ⭐</p>
+| Certification | Issuing Organization | Year |
+| :--- | :--- | :---: |
+| **Databricks Fundamentals** | Databricks | 2026 |
+| **AI Fundamentals** | Google | 2026 |
+| **SQL Problem Solving** | HackerRank | 2024 |
+| **Basics of Python** | Infosys Springboard | 2024 |
+
+---
+
+<p align="center">⭐ <i>Thanks for visiting my profile! Feel free to explore my repositories and connect.</i> ⭐</p>
