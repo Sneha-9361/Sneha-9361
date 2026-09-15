@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 - **Result:** 86.6% prediction accuracy
 - 📁 *[View Repository →]*
 
-### 🔄 Azure Medallion Pipeline *(Coming Soon)*
+### 🔄 Databricks Lakehouse Pipeline *(Coming Soon)*
 > End-to-end Bronze → Silver → Gold pipeline using ADF + Databricks
 - **Tech:** Azure Data Factory, Databricks, Delta Lake, PySpark
 - 📁 *[View Repository →]*
