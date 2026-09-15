@@ -69,10 +69,6 @@ Here are some ideas to get you started:
 - **Tech:** Azure Data Factory, Databricks, Delta Lake, PySpark
 - 📁 *[View Repository →]*
 
-### 📊 SQL Analytics Portfolio *(Coming Soon)*
-> Collection of advanced SQL queries, window functions, and data analysis scripts
-- **Tech:** SQL, PostgreSQL
-- 📁 *[View Repository →]*
 
 ---
 
