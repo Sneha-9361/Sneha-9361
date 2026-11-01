@@ -10,7 +10,7 @@
 
 ### 👩‍💻 About Me
 
-* 🏢 **Data Engineer** at **Teleperformance** (Sep 2025 – Present)
+* 🏢 **Data Engineer** at **Teleperformance** (Sep 2025 – May 2026)
 * 🔧 Building scalable, resilient **ETL/ELT data pipelines** using Azure Databricks, PySpark, and Delta Lake
 * 🏗️ Implementing **Medallion Architecture (Bronze ➔ Silver ➔ Gold)** on Delta Lake
 * 🛡️ Ensuring **99.9% data reliability** with schema contracts, automated quarantine routing, and engine-level constraints
